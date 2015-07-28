@@ -1,1 +1,2 @@
-This is branch master awaiting commit 3
+This is branch master awaiting commit 4 
+this is copy for branch branch2
